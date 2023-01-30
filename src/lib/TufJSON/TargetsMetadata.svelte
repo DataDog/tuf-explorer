@@ -69,4 +69,5 @@ This product includes software developed at Datadog (https://www.datadoghq.com/)
             </li>
         </ul>
     </li>
+    <li>version: {metadata.version}</li>
 </ul>
