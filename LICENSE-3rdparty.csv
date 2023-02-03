@@ -30,12 +30,12 @@ sirv,NPM,MIT,Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (https://luke
 once,NPM,ISC,Copyright (c) Isaac Z. Schlueter and Contributors
 tslib,NPM,0BSD,Copyright (c) Microsoft Corporation.
 magic-string,NPM,MIT,Copyright 2018 Rich Harris
-picomatch,NPM,MIT,Copyright (c) 2017-present, Jon Schlinkert.
+picomatch,NPM,MIT,Copyright (c) 2017-present Jon Schlinkert.
 function-bind,NPM,MIT,Copyright (c) 2013 Raynos.
-is-glob,NPM,MIT,Copyright (c) 2014-2017, Jon Schlinkert.
+is-glob,NPM,MIT,Copyright (c) 2014-2017 Jon Schlinkert.
 typescript,NPM,Apache-2.0, Copyright (c) Microsoft Corporation
 inherits,NPM,ISC,Copyright (c) Isaac Z. Schlueter
-anymatch,NPM,ISC,Copyright (c) 2019 Elan Shanker, Paul Miller (https://paulmillr.com)
+anymatch,NPM,ISC,Copyright (c) 2019 Elan Shanker and Paul Miller (https://paulmillr.com)
 chokidar,NPM,MIT,Copyright (c) 2012-2019 Paul Miller (https://paulmillr.com), Elan Shanker
 postcss,NPM,MIT,Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
 undici,NPM,MIT,Copyright (c) Matteo Collina and Undici contributors
@@ -45,60 +45,60 @@ import-meta-resolve,NPM,MIT,Copyright (c) 2021 Titus Wormer <mailto:tituswormer@
 parent-module,NPM,MIT,Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 strip-indent,NPM,MIT,Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 is-binary-path,NPM,MIT,Copyright (c) 2019 Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com), Paul Miller (https://paulmillr.com)
-deepmerge,NPM,MIT,Copyright (c) 2012 James Halliday, Josh Duff, and other contributors
+deepmerge,NPM,MIT,"Copyright (c) 2012 James Halliday, Josh Duff, and other contributors"
 run-parallel,NPM,MIT,Copyright (c) Feross Aboukhadijeh
-minimist,NPM,MIT,COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+minimist,NPM,MIT, Copyright [these people](https://github.com/minimistjs/minimist/graphs/contributors)
 detect-indent,NPM,MIT,Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 supports-preserve-symlinks-flag,NPM,MIT,Copyright (c) 2022 Inspect JS
-readdirp,NPM,MIT,Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller (https://paulmillr.com)
+readdirp,NPM,MIT,"Copyright (c) 2012-2019 Thorsten Lorenz, Paul Miller (https://paulmillr.com)"
 brace-expansion,NPM,MIT,Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
-fill-range,NPM,MIT,Copyright (c) 2014-present, Jon Schlinkert.
+fill-range,NPM,MIT,"Copyright (c) 2014-present, Jon Schlinkert."
 binary-extensions,NPM,MIT,Copyright (c) 2019 Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com), Paul Miller (https://paulmillr.com)
 path-parse,NPM,MIT,Copyright (c) 2015 Javier Blanco
-picocolors,NPM,ISC,Copyright (c) 2021 Alexey Raspopov, Kostiantyn Denysov, Anton Verinov
-vite,NPM,MIT,Copyright (c) 2019-present, Yuxi (Evan) You and Vite contributors
+picocolors,NPM,ISC,"Copyright (c) 2021 Alexey Raspopov, Kostiantyn Denysov, Anton Verinov"
+vite,NPM,MIT,"Copyright (c) 2019-present, Yuxi (Evan) You and Vite contributors"
 minimatch,NPM,ISC,Copyright (c) Isaac Z. Schlueter and Contributors
 sorcery,NPM,MIT,Copyright Rich Harris
 is-core-module,NPM,MIT,Copyright (c) 2014 Dave Justice
-is-number,NPM,MIT,Copyright (c) 2014-present, Jon Schlinkert.
+is-number,NPM,MIT,"Copyright (c) 2014-present, Jon Schlinkert."
 fs.realpath,NPM,ISC,Copyright (c) Isaac Z. Schlueter and Contributors
 svelte-preprocess,NPM,MIT,Copyright (c) 2016-20 [these people](https://github.com/sveltejs/svelte-preprocess/graphs/contributors)
 rollup,NPM,MIT,Copyright (c) 2017 [these people](https://github.com/rollup/rollup/graphs/contributors)
-concat-map,NPM,MIT,COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-mime,NPM,MIT,Copyright (c) 2010 Benjamin Thomas, Robert Kieffer
+concat-map,NPM,MIT,Copyright James Halliday
+mime,NPM,MIT,"Copyright (c) 2010 Benjamin Thomas, Robert Kieffer"
 glob,NPM,ISC,Copyright (c) Isaac Z. Schlueter and Contributors
 import-fresh,NPM,MIT,Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 has,NPM,MIT,Copyright (c) 2013 Thiago de Arruda
 cookie,NPM,MIT,Copyright (c) 2012-2014 Roman Shtylman <shtylman@gmail.com>
-to-regex-range,NPM,MIT,Copyright (c) 2015-present, Jon Schlinkert.
+to-regex-range,NPM,MIT,"Copyright (c) 2015-present, Jon Schlinkert."
 mri,NPM,MIT,Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
 svelte-check,NPM,MIT, Copyright [these people](https://github.com/sveltejs/language-tools/graphs/contributors)
 totalist,NPM,MIT,Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
-es6-promise,NPM,MIT,Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors
+es6-promise,NPM,MIT,"Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors"
 esbuild,NPM,MIT,Copyright (c) 2020 Evan Wallace
 @jridgewell/sourcemap-codec,NPM,MIT,Copyright (c) 2015 Rich Harris
 @jridgewell/trace-mapping,NPM,MIT,Copyright 2022 Justin Ridgewell <justin@ridgewell.name>
 @jridgewell/resolve-uri,NPM,MIT,Copyright 2019 Justin Ridgewell <jridgewell@google.com>
-micromatch,NPM,MIT,Copyright (c) 2014-present, Jon Schlinkert.
+micromatch,NPM,MIT,"Copyright (c) 2014-present, Jon Schlinkert."
 wrappy,NPM,ISC,Copyright (c) Isaac Z. Schlueter and Contributors
 fast-glob,NPM,MIT,Copyright (c) Denis Malinochkin
 resolve-from,NPM,MIT,Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-is-extglob,NPM,MIT,Copyright (c) 2014-2016, Jon Schlinkert
+is-extglob,NPM,MIT,"Copyright (c) 2014-2016, Jon Schlinkert"
 set-cookie-parser,NPM,MIT,Copyright (c) 2015 Nathan Friedly <nathan@nfriedly.com> (http://nfriedly.com/)
-fastq,NPM,ISC,Copyright (c) 2015-2020, Matteo Collina <matteo.collina@gmail.com>
+fastq,NPM,ISC,"Copyright (c) 2015-2020, Matteo Collina <matteo.collina@gmail.com>"
 mrmime,NPM,MIT,Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (https://lukeed.com)
 sade,NPM,MIT,Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (https://lukeed.com)
 merge2,NPM,MIT,Copyright (c) 2014-2020 Teambition
 kleur,NPM,MIT,Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
-braces,NPM,MIT,Copyright (c) 2014-2018, Jon Schlinkert.
+braces,NPM,MIT,"Copyright (c) 2014-2018, Jon Schlinkert."
 devalue,NPM,MIT,Copyright (c) 2018-19 [these people](https://github.com/rich-harris/devalue/graphs/contributors)
 mkdirp,NPM,MIT,Copyright 2010 James Halliday (mail@substack.net)
-graceful-fs,NPM,ISC,Copyright (c) 2011-2022 Isaac Z. Schlueter, Ben Noordhuis, and Contributors
+graceful-fs,NPM,ISC,"Copyright (c) 2011-2022 Isaac Z. Schlueter, Ben Noordhuis, and Contributors"
 globalyzer,NPM,MIT,Copyright (c) 2018 Terkel Gjervig Nielsen
-normalize-path,NPM,MIT,Copyright (c) 2014-2018, Jon Schlinkert.
-fsevents,NPM,MIT,Copyright (C) 2010-2020 by Philipp Dunkel, Ben Noordhuis, Elan Shankar, Paul Miller
+normalize-path,NPM,MIT,"Copyright (c) 2014-2018, Jon Schlinkert."
+fsevents,NPM,MIT,"Copyright (C) 2010-2020 by Philipp Dunkel, Ben Noordhuis, Elan Shankar, Paul Miller"
 debug,NPM,MIT,Copyright (c) 2014-2017 TJ Holowaychuk <tj@vision-media.ca>
-glob-parent,NPM,ISC,Copyright (c) 2015, 2019 Elan Shanker
-source-map-js,NPM,BSD-3-Clause,Copyright (c) 2009-2011, Mozilla Foundation and contributors
+glob-parent,NPM,ISC,"Copyright (c) 2015, 2019 Elan Shanker"
+source-map-js,NPM,BSD-3-Clause,"Copyright (c) 2009-2011, Mozilla Foundation and contributors"
 @esbuild/darwin-arm64,NPM,MIT,Copyright [these people](https://github.com/evanw/esbuild/graphs/contributors)
 inflight,NPM,ISC,Copyright (c) Isaac Z. Schlueter
