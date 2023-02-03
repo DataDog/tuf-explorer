@@ -7,8 +7,7 @@ This product includes software developed at Datadog (https://www.datadoghq.com/)
 import { readFileSync, readdirSync } from 'node:fs';
 import type { RequestHandler } from './$types';
 import { json } from '@sveltejs/kit';
-import { keyInfoRootDir as relKeyInfoRootDir } from '$lib/constants';
-import { rootDir } from '$lib/tufRepoFilesystem';
+import { rootDir, keyInfoRootDir as relKeyInfoRootDir } from '$lib/directories';
 import { joinPath } from '$lib/utils';
 
 const keyInfoRootDir = joinPath([rootDir, relKeyInfoRootDir]);

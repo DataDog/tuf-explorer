@@ -5,7 +5,7 @@ Unless explicitly stated otherwise all files in this repository are licensed und
 This product includes software developed at Datadog (https://www.datadoghq.com/)  Copyright 2023-present Datadog, Inc.
 **/
 
-    import { keyInfoRootDir, reposRootDir } from "$lib/constants";
+    import { keyInfoRootDir, reposRootDir } from "$lib/directories";
     import FileTree from "$lib/FileTree.svelte";
     import type { PageData } from "./$types";
 

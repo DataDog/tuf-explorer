@@ -5,8 +5,8 @@ This product includes software developed at Datadog (https://www.datadoghq.com/)
 **/
 
 import type { LayoutServerLoad } from './$types';
-import { recurseDir, rootDir } from '$lib/tufRepoFilesystem';
-import { keyInfoRootDir, reposRootDir } from '$lib/constants';
+import { recurseDir } from '$lib/tufRepoFilesystem';
+import { rootDir, keyInfoRootDir, reposRootDir } from '$lib/directories';
 
 export const load: LayoutServerLoad = async() => {
     return {

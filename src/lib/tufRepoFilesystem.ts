@@ -6,8 +6,8 @@ This product includes software developed at Datadog (https://www.datadoghq.com/)
 
 import { readFileSync, readdirSync } from 'node:fs';
 import { execFile } from 'node:child_process';
+import { rootDir } from './directories';
 
-export const rootDir = process.env.HOME + '/tinkering/tuf-explorer-demo/';
 
 export function readFile(path: string) {
     return readFileSync(rootDir + "/" + path, { encoding: 'utf-8' });

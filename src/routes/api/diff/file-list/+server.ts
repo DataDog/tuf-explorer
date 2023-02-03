@@ -4,8 +4,8 @@ Unless explicitly stated otherwise all files in this repository are licensed und
 This product includes software developed at Datadog (https://www.datadoghq.com/)  Copyright 2023-present Datadog, Inc.
 **/
 
-import { keyInfoRootDir, reposRootDir } from '$lib/constants';
-import { getDiffFileList, rootDir } from '$lib/tufRepoFilesystem';
+import { rootDir, keyInfoRootDir, reposRootDir } from '$lib/directories';
+import { getDiffFileList} from '$lib/tufRepoFilesystem';
 import { joinPath } from '$lib/utils';
 import { error as svelteError, json, type RequestHandler } from '@sveltejs/kit';
 
