@@ -11,17 +11,6 @@ OTHER_LICENCES = [
     'MPL-2.0',
 ]
 
-# def get_license_url(data, license: str) -> str:
-#     for each in data['licenses']:
-#         if each['type'] == license:
-#             return each['url']
-#     else:
-#         found = [each["type"] for each in data["licenses"]]
-#         raise Exception(
-#             f'could not find a license of type "{license}". '
-#             f'found: {found}'
-#         )
-
 Entry = namedtuple('Entry', ['Component', 'Origin', 'License', 'Copyright'])
 
 def get_copyright(package: str) -> str:
