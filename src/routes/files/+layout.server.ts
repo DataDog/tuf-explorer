@@ -10,8 +10,14 @@ import { rootDir, keyInfoRootDir, reposRootDir } from '$lib/directories';
 
 export const load: LayoutServerLoad = async() => {
     return {
-        repoFiles: recurseDir(rootDir + "/" + reposRootDir),
-        helperFiles: recurseDir(rootDir + "/" + keyInfoRootDir),
+        repoFiles: {
+            root: reposRootDir,
+            files: recurseDir(rootDir + "/" + reposRootDir)
+        },
+        helperFiles: {
+            root: keyInfoRootDir,
+            files: recurseDir(rootDir + "/" + keyInfoRootDir)
+        },
     }
 }
 
