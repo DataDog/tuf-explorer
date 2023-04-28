@@ -37,6 +37,17 @@ npm install
 ```
 
 
+## Run the Example
+
+_TODO make a containerized version of the example_
+
+```
+bash example/run.sh
+```
+
+For more info see [example/README.md](example/README.md)
+
+
 ## Run
 
 The app will need three env variables: `TUF_EXPLORER_ROOT_DIR`, `TUF_EXPLORER_REPOS_ROOT_DIR_SUFFIX` and `TUF_EXPLORER_REPOS_KEY_INFO_DIR_SUFFIX`. There is an optional variable `TUF_EXPLORER_COMMON_ROOTS_PREFIX`.

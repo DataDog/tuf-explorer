@@ -1,0 +1,10 @@
+{
+    "keys": {
+        "ae72cf6459c56c6fccfc7eb4ce728265f849956a922c38430fcbf699ff46b066": {
+            "name": "root_key_1"
+        },
+        "de6fb331bc6c2b16335e3094eb4e6bd4e26f7d99f7cf95125834e949257536e6": {
+            "name": "targets_key"
+        }
+    }
+}
