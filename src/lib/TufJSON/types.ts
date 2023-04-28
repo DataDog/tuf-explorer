@@ -46,6 +46,14 @@ export type TargetsMetadata = {
             terminating: boolean
         }[]
     }
+    targets?: {
+        [path: string]: {
+            length: number
+            hashes: {
+                [hashFn: string]: string
+            }
+        }
+    },
     spec_version: string
     version: number
 }

@@ -75,5 +75,23 @@ This product includes software developed at Datadog (https://www.datadoghq.com/)
             </ul>
         </li>
     {/if}
+    {#if metadata.targets}
+        <li>
+            targets:
+            <ul>
+                {#each Object.entries(metadata.targets) as [targetPath, targetInfo]}
+                    <li>
+                        {targetPath}:
+                        <ul>
+                            <li>length: {targetInfo.length}</li>
+                            {#each Object.entries(targetInfo.hashes) as [hashFn, digest]}
+                                <li>{hashFn} hash: <code>{digest}</code></li>
+                            {/each}
+                        </ul>
+                    </li>
+                {/each}
+            </ul>
+        </li>
+    {/if}
     <li>version: {metadata.version}</li>
 </ul>
