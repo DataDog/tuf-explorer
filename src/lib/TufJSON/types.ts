@@ -34,7 +34,7 @@ export type RootMetadata = {
 export type TargetsMetadata = {
     _type: "targets"
     expires: string
-    delegations: {
+    delegations?: {
         keys: {
             [id: string]: any
         }
