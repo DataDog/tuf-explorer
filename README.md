@@ -1,5 +1,8 @@
 # TUF Explorer
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/DataDog/tuf-explorer/badge)](https://api.securityscorecards.dev/projects/github.com/DataDog/tuf-explorer)
+
+
 A Web app to visualise your [TUF](https://theupdateframework.io/) data.
 
 **This software is in very early stage for now, use at your own risk! And read the "security" section**
