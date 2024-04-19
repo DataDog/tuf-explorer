@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository has been inactive for a good amount of time so it is archived
+> until developement work resumes
+
 # TUF Explorer
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/DataDog/tuf-explorer/badge)](https://api.securityscorecards.dev/projects/github.com/DataDog/tuf-explorer)
